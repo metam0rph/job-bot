@@ -5,3 +5,7 @@ This is a **Job Application Bot** built using **Java** and **Selenium** to autom
 ## Technologies Used
 - Java
 - Selenium
+- Spring boot
+- JPA
+- Hibernate
+- Postgre SQL
